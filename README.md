@@ -1,2 +1,0 @@
-# ReactProductList
-Created with CodeSandbox
